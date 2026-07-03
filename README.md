@@ -1,0 +1,2 @@
+# dibalik-kata
+Di Balik Kata adalah game visual novel edukasi yang mengangkat tema perundungan verbal (verbal bullying) di lingkungan sekolah dasar. Pemain akan mengikuti alur cerita yang interaktif, membuat berbagai pilihan, serta memahami dampak dari setiap ucapan terhadap perasaan orang lain. Melalui cerita yang menarik, game ini bertujuan menumbuhkan empati, keberanian, dan sikap saling menghargai sehingga anak-anak dapat belajar membangun lingkungan sekolah yang aman, nyaman, dan bebas dari perundungan.
